@@ -1,0 +1,8 @@
+1. GPIO [+]
+2. TIMER [+]
+3. SystemClock [+]
+4. Architecture [+]
+5. Core [+]
+6. LedController [+]
+7. UART Debug Messages [-]
+8. RX/TX Connection [-]
